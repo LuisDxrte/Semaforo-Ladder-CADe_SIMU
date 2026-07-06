@@ -8,8 +8,8 @@ Este projeto foi desenvolvido durante o curso técnico de automação para simul
 * Temporizadores (TON e TOF)
 
 ### 📊 Circuito e Lógica:
-[Controle de Semaforo - Ladder.bmp](https://github.com/user-attachments/files/29392448/Controle.de.Semaforo.-.Ladder.bmp)
-<img width="1347" height="862" alt="image" src="https://github.com/user-attachments/assets/9c10d6c8-f3db-4064-afc8-012d4cf24863" />
+<img width="986" height="555" alt="image" src="https://github.com/user-attachments/assets/3f31f9b5-181f-4457-9f2b-91e4acf8fa99" />
+
 
 https://github.com/user-attachments/assets/5dec2dbf-a734-454f-9f4a-f430531b9cc1
 
